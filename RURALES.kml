@@ -1,0 +1,1965 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>RURALES.kml</name>
+	<StyleMap id="inline00">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#inline38</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#inline430</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="inline000">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#inline200</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#inline400</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="inline01">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#inline210</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#inline45</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="inline02">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="inline10">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#inline47</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#inline59</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="inline100">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>2.5</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="inline101">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#inline181</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#inline191</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="inline11">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#inline14</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#inline19</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="inline110">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#inline23</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#inline37</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="inline1100">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>2.5</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="inline111">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#inline32</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#inline90</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="inline112">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="inline1120">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="inline12">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="inline120">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#inline82</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#inline41</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="inline1200">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>2.5</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="inline121">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#inline300</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#inline500</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="inline13">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>2.5</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="inline14">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="inline140">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="inline15">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="inline1500">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#inline81</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#inline190</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="inline16">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="inline160">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="inline161">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="inline17">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="inline170">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#inline160</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#inline140</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="inline171">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#inline161</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#inline310</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="inline18">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#inline66</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#inline22</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="inline180">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#inline900</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#inline1200</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="inline181">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="inline19">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="inline190">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="inline191">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="inline2">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="inline20">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="inline200">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>2.5</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="inline21">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="inline210">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="inline211">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="inline22">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="inline220">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="inline221">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#inline501</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#inline220</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="inline23">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="inline24">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="inline240">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#inline290</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#inline260</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="inline25">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#inline20</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#inline8</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="inline250">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="inline26">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="inline260">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="inline27">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="inline28">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#inline26</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#inline29</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="inline280">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#inline50</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#inline211</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="inline29">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="inline290">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="inline30">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="inline300">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>2.5</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="inline31">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="inline310">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="inline32">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="inline33">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#inline64</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#inline57</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="inline330">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#inline34</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#inline30</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="inline34">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="inline35">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#inline250</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#inline1120</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="inline36">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#inline2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#inline530</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="inline360">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#inline31</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#inline39</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="inline37">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="inline38">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="inline39">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="inline4">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#inline17</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#inline68</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="inline40">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="inline400">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>2.5</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="inline41">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="inline43">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="inline430">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="inline44">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="inline45">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="inline46">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#inline43</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#inline24</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="inline47">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="inline48">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#inline63</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#inline112</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="inline49">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#inline62</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#inline7</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="inline50">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="inline500">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>2.5</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="inline501">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="inline51">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#inline53</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#inline02</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="inline52">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#inline65</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#inline12</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="inline53">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="inline530">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="inline54">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#inline67</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#inline21</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="inline55">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#inline16</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#inline15</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="inline56">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="inline57">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="inline58">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="inline59">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="inline60">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#inline1100</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#inline13</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="inline61">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#inline56</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#inline44</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="inline62">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="inline63">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="inline64">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="inline65">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="inline66">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="inline67">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="inline68">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="inline69">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="inline7">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="inline70">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#inline100</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#inline80</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="inline71">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#inline40</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#inline69</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="inline8">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="inline80">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>2.5</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="inline81">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="inline82">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="inline9">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#inline27</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#inline58</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="inline90">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="inline900">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>2.5</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin10</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl02</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="m_ylw-pushpin00">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin00</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="m_ylw-pushpin4">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin30</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl002</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="m_ylw-pushpin5">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin31</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin01</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin01">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin3</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin02</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin03">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin12</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin5">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin00">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="s_ylw-pushpin10">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="s_ylw-pushpin30">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="s_ylw-pushpin31">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl002">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl02">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl2">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>2.2</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin01">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin02">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin1">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin1">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>2.2</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin12">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin3">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Folder>
+		<name>Líneas RURALES</name>
+		<open>1</open>
+		<Placemark>
+			<name>Línea a PASCO</name>
+			<styleUrl>#inline221</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-63.38185677011572,-32.7244149256429,0 -63.3883501260862,-32.7201789615794,0 -63.39017162594333,-32.71886364622737,0 -63.42413497781515,-32.69673582265396,0 -63.42497478410228,-32.69609279881508,0 -63.42591607892592,-32.69514419321571,0 -63.42677885703387,-32.69389798472269,0 -63.42834917620757,-32.69316129984674,0 -63.42957051083566,-32.69244700080369,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>manavella 2</name>
+			<styleUrl>#inline121</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-63.4033904438892,-32.77724477068367,0 -63.40133408708826,-32.76996729511297,0 -63.40930412771833,-32.76839602571835,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Demartini</name>
+			<styleUrl>#inline70</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-63.41107466063593,-32.77440878657914,0 -63.40930833762746,-32.76837216756561,0 -63.41007159807751,-32.76821865087577,0 -63.40881123463942,-32.763635053995,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Manavella 1</name>
+			<styleUrl>#inline180</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-63.40879373985322,-32.76362827245001,0 -63.41134766097616,-32.75147025105677,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Rodriguez</name>
+			<styleUrl>#inline60</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-63.41133114770613,-32.75146784107456,0 -63.41431262726159,-32.75088756702169,0 -63.41409772906981,-32.74990970140012,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>General</name>
+			<styleUrl>#inline000</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-63.41409772906981,-32.74990970140012,0 -63.42700550102591,-32.74732004059902,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Línea a Multiagro</name>
+			<styleUrl>#inline111</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-63.42700306063644,-32.74732085158283,0 -63.44174250475105,-32.80190572475554,0 -63.43577934255692,-32.80404868699072,0 -63.43965241615999,-32.82334431807052,0 -63.43976793392201,-32.82375312715094,0 -63.44176297562829,-32.83365368714264,0 -63.45687845711274,-32.8311397511141,0 -63.45960937337586,-32.8304126747703,0 -63.46191439404586,-32.82968067525525,0 -63.46233676735307,-32.82952575475719,0 -63.46099879015475,-32.82602672214172,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Multiagro Tambo3</name>
+			<styleUrl>#inline1500</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-63.44172535283475,-32.83346547377742,0 -63.43142989514416,-32.83727578128549,0 -63.43109329918536,-32.83751350927837,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Multiagro Tambo 3</name>
+			<styleUrl>#inline170</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-63.4417631033722,-32.83365256729839,0 -63.44342119263567,-32.84178851559102,0 -63.44806238228498,-32.84076300519907,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Rural SUR</name>
+			<styleUrl>#inline01</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-63.42700301829449,-32.74732090996226,0 -63.41783459117624,-32.71269761380935,0 -63.42825803509048,-32.71066334360231,0 -63.42589274419597,-32.70195012352968,0 -63.42618550080251,-32.70174752651954,0 -63.42501921348354,-32.69723051552326,0 -63.42473661738396,-32.69688859064866,0 -63.42413528334479,-32.69673609460989,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Marengo Ronald</name>
+			<styleUrl>#inline00</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-63.42611023853626,-32.74390334928248,194.2170189415101 -63.4209694449679,-32.74501687731053,194.7364169385925 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Marengo Rene</name>
+			<styleUrl>#m_ylw-pushpin00</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-63.4250270932303,-32.76438636862582,0 -63.4313222336182,-32.7632286383067,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Bonetto</name>
+			<styleUrl>#inline120</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-63.42407496606779,-32.73606177828067,196.2153272420207 -63.4308912017114,-32.73472769378465,194.6892970425923 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Pierige</name>
+			<styleUrl>#inline240</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-63.41409313645434,-32.74992177076268,0 -63.41352611131116,-32.74712989869451,0 -63.41199952700694,-32.74314303491936,0 -63.40651527328071,-32.74397014201877,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Chesta</name>
+			<styleUrl>#inline71</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-63.42745496528538,-32.7489794278753,197.9895343991776 -63.4305579568456,-32.74839674371664,200.6050956293053 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Reyunos</name>
+			<styleUrl>#inline280</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-63.42999660599062,-32.79080075404308,190.9607613201775 -63.43848228610023,-32.78983897400869,193.2020056628099 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Dagna</name>
+			<styleUrl>#inline360</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-63.4336100649697,-32.81041119224025,190.964155371481 -63.43681752991157,-32.8092432491948,192.2147917245899 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Corradini</name>
+			<styleUrl>#inline171</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-63.43742520727833,-32.8122772670671,189.6609506212966 -63.44050131501017,-32.81111091048822,189.137884166833 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Margiaria</name>
+			<styleUrl>#inline35</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-63.43549711401426,-32.75408945863759,198.2214947901787 -63.42916030134005,-32.75534965053372,196.6551839006349 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Línea a Multiagro2</name>
+			<styleUrl>#inline330</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-63.4396582995086,-32.82336310400217,0 -63.41675617428557,-32.83367501990259,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Masucco</name>
+			<styleUrl>#inline101</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-63.41677063762571,-32.83367558061885,183.521950976814 -63.41596452009243,-32.83013585113955,188.1580487437435 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Guillermón</name>
+			<styleUrl>#inline110</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-63.43244966750959,-32.82659908724391,189.2119601921482 -63.43169859636898,-32.82304808554686,190.2623958543122 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>A Petitti</name>
+			<styleUrl>#inline48</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-63.45042955587598,-32.75653057432808,0 -63.45686405374474,-32.75530911167231,0 -63.44932610384865,-32.72697493962048,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Guachera</name>
+			<styleUrl>#inline46</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-63.45686192640432,-32.75530476721618,0 -63.45952674459592,-32.75587828179489,0 -63.46346243803465,-32.77095337714582,0 -63.46524236012538,-32.76938441706312,0 -63.47094082481587,-32.79117870453093,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Costamagna</name>
+			<styleUrl>#inline18</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-63.46912385065636,-32.78423425645201,0 -63.47240745612615,-32.78342537476287,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Carnevalle</name>
+			<styleUrl>#inline61</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-63.44932463148466,-32.72697735431132,0 -63.44397882816966,-32.70686201322808,0 -63.44693661081928,-32.70628160249161,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Gagliardo</name>
+			<styleUrl>#inline51</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-63.4498125958259,-32.69692097646198,0 -63.44491556939567,-32.69796358542165,0 -63.44526061802771,-32.69929743906697,0 -63.44212270665597,-32.69988865248852,0 -63.44398108260986,-32.70686464454953,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Fabrica</name>
+			<styleUrl>#inline36</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-63.44932361477213,-32.72697765828839,0 -63.42285341805078,-32.73200697216466,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Scotto Tambo</name>
+			<styleUrl>#inline28</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-63.51820852155254,-32.6986685847181,0 -63.52187488617904,-32.7123618572731,0 -63.51572608388997,-32.71456406804411,0 -63.51710814416559,-32.71981165193012,0 -63.50886633406913,-32.72764334489249,0 -63.50695306845413,-32.72049313128188,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Sola</name>
+			<styleUrl>#inline49</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-63.50691049479087,-32.69674466447032,0 -63.5063381076117,-32.69509909176836,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Jacobo Sola</name>
+			<styleUrl>#inline25</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-63.51820649633503,-32.69866678922604,0 -63.51636625502255,-32.69167621639945,0 -63.49684613242683,-32.69832770063505,0 -63.49502120792268,-32.69134696643624,0 -63.49177945808403,-32.69442099224521,0 -63.4895415177272,-32.69661232795428,0 -63.48837273797237,-32.69269289002198,0 -63.48776351438949,-32.69059607538102,0 -63.49077611746798,-32.68776162375601,0 -63.48871165378356,-32.67988507670098,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Azcurra casa</name>
+			<styleUrl>#inline33</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-63.48352852322473,-32.65949756876397,0 -63.48466001086855,-32.66415540751966,0 -63.49116798242407,-32.6597029666484,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Azcurra Tambo</name>
+			<styleUrl>#inline55</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-63.48466000195838,-32.66415601681515,0 -63.48698824328601,-32.67319025597385,0 -63.49361132972135,-32.66898030470922,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Bastino Hilario</name>
+			<styleUrl>#inline9</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-63.48698694502989,-32.67318829405838,0 -63.48871188413769,-32.67988419043103,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Estevez</name>
+			<styleUrl>#inline11</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-63.50080339152058,-32.64221407574216,0 -63.50198613726157,-32.64612359776771,0 -63.49162466661291,-32.65284918542897,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Azcurra Ricardo</name>
+			<styleUrl>#inline4</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-63.48909357916672,-32.6410747024222,0 -63.4869762925134,-32.64233120523866,0 -63.49162337933371,-32.65285016005722,0 -63.49147747287769,-32.65294272652574,0 -63.48316016491769,-32.65837376904443,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>roca</name>
+			<styleUrl>#inline52</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-63.44932610384865,-32.72697493962048,0 -63.45931198233564,-32.71762455782434,0 -63.4631149356993,-32.73138104189867,0 -63.46836846098942,-32.7263638233449,0 -63.4676400771063,-32.72379627820698,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>colautti</name>
+			<styleUrl>#inline54</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-63.46620695613468,-32.72842987917105,0 -63.46885340808934,-32.73045059335666,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Bolatti</name>
+			<styleUrl>#inline10</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-63.46203989167113,-32.72752397447069,0 -63.45746961825933,-32.72754530742728,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Peretti</name>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-63.43892594189737,-32.68854255535452,0 -63.43933247244756,-32.68794508448831,0 -63.44237289920089,-32.68591270578768,0 -63.44275973219636,-32.68608961001049,0 -63.44338688246774,-32.68570343425584,0 -63.44990329792871,-32.68142293634277,0 -63.45333028188577,-32.67918419628621,0 -63.45362314408564,-32.67880126819045,0 -63.45439511529278,-32.67831968012062,0 -63.48352852322473,-32.65949756876397,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Revello</name>
+			<styleUrl>#m_ylw-pushpin5</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-63.46477766858466,-32.67157324049583,0 -63.46607764377582,-32.67644300295611,0 -63.47086128233141,-32.67537239181343,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>A Colombano</name>
+			<styleUrl>#msn_ylw-pushpin03</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-63.4331820905843,-32.69003507788819,0 -63.43942274290264,-32.68595739703784,0 -63.44164568326124,-32.68534673145101,0 -63.45326029173221,-32.67781009196008,0 -63.46124648953214,-32.67261663547539,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Pedernera</name>
+			<styleUrl>#m_ylw-pushpin5</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-63.47034837050646,-32.66022155287139,0 -63.47183862114787,-32.66574310896746,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>A Palestina</name>
+			<styleUrl>#msn_ylw-pushpin5</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-63.42226650993828,-32.64660391958188,0 -63.43146372793803,-32.68254900970386,0 -63.42714201933511,-32.68332482891297,0 -63.42956536114067,-32.69245023574191,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Baricco</name>
+			<styleUrl>#m_ylw-pushpin5</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-63.4612457792881,-32.67261797652297,0 -63.45832928244643,-32.66152948329231,0 -63.45772510100535,-32.65985224048148,0 -63.45791589485094,-32.65755061462984,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Monti</name>
+			<styleUrl>#m_ylw-pushpin5</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-63.45325900588108,-32.67781096354965,0 -63.45123209530927,-32.66968730975009,0 -63.45061026953867,-32.66879923482367,0 -63.4458286811096,-32.66963436101219,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Acastello</name>
+			<styleUrl>#msn_ylw-pushpin03</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-63.42687986452562,-32.68337106141081,0 -63.4274007721455,-32.68527804758148,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Carre</name>
+			<styleUrl>#msn_ylw-pushpin03</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-63.42714017225066,-32.6833257554825,0 -63.40609439585306,-32.68733666438828,0 -63.40689564573361,-32.69033336549762,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>El Puente</name>
+			<styleUrl>#m_ylw-pushpin5</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-63.40609365019027,-32.68734026408225,0 -63.40581177209771,-32.68739763337559,0 -63.40418385123277,-32.68142382153808,0 -63.40413501073067,-32.68120579321521,0 -63.40555648658538,-32.6809472165352,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Lerda</name>
+			<styleUrl>#m_ylw-pushpin5</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-63.40581250201564,-32.68739686326551,0 -63.39106434164603,-32.69014870804632,0 -63.3925086962555,-32.69618982682161,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Berti 1</name>
+			<styleUrl>#m_ylw-pushpin5</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-63.39106334763544,-32.69014837449218,0 -63.37355663901462,-32.69330223569432,0 -63.37300626033537,-32.69310036790704,0 -63.36458260419536,-32.69466102341091,0 -63.3629727158775,-32.68834368702521,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Berti 2</name>
+			<styleUrl>#m_ylw-pushpin5</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-63.36297186164866,-32.68836038218516,0 -63.36145581865523,-32.68232773040462,0 -63.36549014701777,-32.68157185009552,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Berti 3</name>
+			<styleUrl>#m_ylw-pushpin5</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-63.36145474020282,-32.68233056086721,0 -63.35937698812735,-32.6740923648439,0 -63.37297739637922,-32.67155379327385,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Escuela</name>
+			<styleUrl>#m_ylw-pushpin5</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-63.35937199499148,-32.67410360063371,0 -63.35668478601123,-32.6637516491815,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Berti 4</name>
+			<styleUrl>#m_ylw-pushpin5</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-63.35668480620953,-32.66375102282439,0 -63.35615411439899,-32.66162285790279,0 -63.36582743795502,-32.65991568391941,0 -63.36519444875567,-32.65801369390162,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Fabrica</name>
+			<styleUrl>#m_ylw-pushpin5</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-63.42686620783163,-32.66461317758249,0 -63.43412835294443,-32.66324537598348,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Monti</name>
+			<styleUrl>#m_ylw-pushpin5</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-63.42801283357922,-32.66910300643517,0 -63.4278128529762,-32.66912623345243,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Corradini A</name>
+			<styleUrl>#m_ylw-pushpin4</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-63.38709337312695,-32.71466904779707,0 -63.38848076679825,-32.720083327666,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Angeloni</name>
+			<styleUrl>#msn_ylw-pushpin01</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-63.52192917932058,-32.71239795610274,0 -63.52667708037518,-32.71100149888785,0 -63.52979121501059,-32.70815850896246,0 -63.53494549392975,-32.70718695513645,0 -63.5374865561094,-32.70669452658492,0 -63.53833604108434,-32.70651051815386,0 -63.55542301203838,-32.70417263853842,0 -63.5568110832818,-32.70157469760564,0 -63.55947156343788,-32.70089014334322,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>A Rural Oeste</name>
+			<styleUrl>#msn_ylw-pushpin03</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-63.43146363736248,-32.68255248476949,0 -63.43171876021883,-32.68327938485059,0 -63.43337226545296,-32.68968351636644,0 -63.43318220094758,-32.69003474878834,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Rural Sur Por GUIRSU</name>
+			<styleUrl>#msn_ylw-pushpin0</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-63.42519140843713,-32.69746549045667,0 -63.41530609436614,-32.70399979039919,0 -63.41783459117624,-32.71269761380935,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Baricco-Pedernera</name>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-63.46124737141012,-32.67261608218416,0 -63.48315921295881,-32.65837325032595,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.7.1155"></atom:link>
+	</Folder>
+</Document>
+</kml>
